@@ -1,0 +1,45 @@
+* {
+    margin: 10px;
+}
+
+
+.holud {
+    color: khaki;
+}
+
+.blog {
+    background-color: aquamarine;
+    text-align: center;
+    border: 10px solid green;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-shadow: 5px 8px 0px 0px rgba(0, 0, 0, 1);
+
+}
+
+#reddish {
+    color: pink;
+    text-decoration: overline;
+    text-decoration-color: brown;
+}
+
+#list {
+    margin-bottom: 10px;
+}
+
+#border{
+    border: 2px solid purple;
+    margin:2px;
+    padding:2px;
+    display:block;
+    height:30px;
+}
+
+.header{
+    height:150px;
+    background-image: url('grannie.jpg');
+    background-repeat:no-repeat;
+    background-size: 100% 170px;
+    
+}
